@@ -172,8 +172,6 @@ Trade Agent 全流程自动化操作：
 |数据源|AkShare|
 |数据库|PostgreSQL|
 |缓存|Redis|
-|部署|Docker|
-|通知|Telegram Bot|
 
 ---
 
